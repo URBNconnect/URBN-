@@ -1,0 +1,4 @@
+npx create-react-app urbn-app
+cd urbn-app
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
